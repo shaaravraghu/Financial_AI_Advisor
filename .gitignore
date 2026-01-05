@@ -1,0 +1,34 @@
+# Environment variables (contains API keys)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Data files (user-specific financial data)
+data/*.csv
+data/*.txt
+data/*.json
+data/*.mp3
+
+# Keep data directory structure but ignore contents
+!data/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files
+test_run_core.py

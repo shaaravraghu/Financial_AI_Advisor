@@ -1,0 +1,15 @@
+I want to develop a financial advisor app using Agentic AI in python. I don't necessarily need a UI but a place to take verbal and text input. Take note of all the details provided like a proper financier. You may use multiple files to run different functionality prompts. 
+
+- Keep track of files in txt or csv or both.
+- Note down historical data (each and everything provided by the users).
+- Use csv to maintain transactions and planning details.
+- Keep a different file for keeping a note of all the important decisions taken.
+- Bio-data of user should be taken in note for better understanding.
+- Risk Profile and Trending Data should be taken for markets and macro-economic level.
+- Data Filtration: Necessary and Unnecessary; plays a major factor.
+- Probabilistic reasoning, and Risk Management engine should be made to make better decisions.
+- Risk profile and Customer interests should be analysed.
+- With current decisions; future planning should be done.
+- Explain decisions well.
+
+I have eleven labs API key for text to voice transcribing and Xiaomi: MiMo-V2-Flash API for our engine (max 4k credits). Don't make the code now, we can make it in future. I want the workflow structure.
