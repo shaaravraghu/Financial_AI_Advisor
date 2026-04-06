@@ -11,12 +11,3 @@ class PlanningEngine:
         # AI Logic: How will 2026 inflation affect this burn rate?
         # (This is injected into the final prompt in main.py)
         return f"Based on a monthly burn of ${avg_monthly_spend:.2f}, you have X months of runway."
-
-
-
-
-
-
-
-
-    
