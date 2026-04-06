@@ -67,3 +67,23 @@ class MemoryManager:
     def load_json(self, filepath):
         with open(filepath, 'r') as f:
             return json.load(f)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
