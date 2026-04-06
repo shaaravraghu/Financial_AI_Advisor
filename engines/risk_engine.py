@@ -89,3 +89,11 @@ class RiskEngine:
             error_msg = f"Error computing risk logic: {e}"
             print(f"[RiskEngine] Full error details: {type(e).__name__}: {str(e)}")
             return error_msg
+
+
+
+
+
+
+
+
