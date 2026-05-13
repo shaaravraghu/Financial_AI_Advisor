@@ -70,3 +70,10 @@ class APIBridge:
         )
         with open(self.decision_file, "a") as f:
             f.write(entry)
+
+
+
+
+
+
+
