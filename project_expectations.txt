@@ -13,3 +13,7 @@ I want to develop a financial advisor app using Agentic AI in python. I don't ne
 - Explain decisions well.
 
 I have eleven labs API key for text to voice transcribing and Xiaomi: MiMo-V2-Flash API for our engine (max 4k credits). Don't make the code now, we can make it in future. I want the workflow structure.
+
+
+
+
